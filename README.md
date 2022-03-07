@@ -9,4 +9,4 @@ Multithreaded orthogonalization in GMRES (addition to existing package): [`Itera
 
 CLI for running benchmarks: [`JuliaParGMRES-BenchCLI`](https://github.com/jkrch/JuliaParGMRES-BenchCLI).
 
-Benchmarks results: [`JuliaParGMRES-Plots`](https://github.com/jkrch/JuliaParGMRES-Plots)
+Benchmark results: [`JuliaParGMRES-Plots`](https://github.com/jkrch/JuliaParGMRES-Plots)
