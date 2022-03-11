@@ -7,6 +7,6 @@ Multithreaded ILU (addition to existing package): [`ExtendableSparse.jl`](https:
 
 Multithreaded orthogonalization in GMRES (addition to existing package): [`IterativeSolvers.jl`](https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl/pull/293)
 
-CLI for running benchmarks: [`JuliaParGMRES-BenchCLI`](https://github.com/jkrch/JuliaParGMRES-BenchCLI).
+CLI for running benchmarks: [`JuliaParGMRES-BenchCLI`](https://github.com/jkrch/JuliaParGMRES-BenchCLI)
 
 Benchmark results: [`JuliaParGMRES-Plots`](https://github.com/jkrch/JuliaParGMRES-Plots)
