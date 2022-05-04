@@ -1,4 +1,4 @@
-# Multithreaded GMRES in the Programming Language Julia
+# Multithreaded GMRES in the Julia
 
 
 Multithreaded SpMV: [`MtSpMV.jl`](https://github.com/jkrch/MtSpMV.jl)
